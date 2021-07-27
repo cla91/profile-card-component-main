@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/flexbox-media-query-and-absolute-positioning-IH1sWsC_h)
 - Live Site URL: [Add live site URL here](https://cla91.github.io/profile-card-component-main/)
 
 ## My process
