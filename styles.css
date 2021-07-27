@@ -103,6 +103,8 @@ h2, .stat-head {
 }
 .stat-sub {
   letter-spacing: 0.09rem;
+  font-size: 0.6875rem;
+  padding-top: 0.5rem;
 }
 .stat {
   border-top: 1px solid hsl(0, 0%, 59%);
